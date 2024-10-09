@@ -1,5 +1,5 @@
-#Atividade Avaliativa – Parte 2
+# Atividade Avaliativa – Parte 2
 
 Trabalho realizado por: 
--Aluno: Alan Marcelo Scheibler
--RA: 1130556
+- Aluno: Alan Marcelo Scheibler
+- RA: 1130556
